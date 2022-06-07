@@ -1,0 +1,12 @@
+C:\Users\kmanu\source\repos\AppFactorySystem\interns\bin\Debug\net6.0\interns.deps.json
+C:\Users\kmanu\source\repos\AppFactorySystem\interns\bin\Debug\net6.0\interns.dll
+C:\Users\kmanu\source\repos\AppFactorySystem\interns\bin\Debug\net6.0\interns.pdb
+C:\Users\kmanu\source\repos\AppFactorySystem\interns\obj\Debug\net6.0\interns.csproj.AssemblyReference.cache
+C:\Users\kmanu\source\repos\AppFactorySystem\interns\obj\Debug\net6.0\interns.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kmanu\source\repos\AppFactorySystem\interns\obj\Debug\net6.0\interns.AssemblyInfoInputs.cache
+C:\Users\kmanu\source\repos\AppFactorySystem\interns\obj\Debug\net6.0\interns.AssemblyInfo.cs
+C:\Users\kmanu\source\repos\AppFactorySystem\interns\obj\Debug\net6.0\interns.csproj.CoreCompileInputs.cache
+C:\Users\kmanu\source\repos\AppFactorySystem\interns\obj\Debug\net6.0\interns.dll
+C:\Users\kmanu\source\repos\AppFactorySystem\interns\obj\Debug\net6.0\refint\interns.dll
+C:\Users\kmanu\source\repos\AppFactorySystem\interns\obj\Debug\net6.0\interns.pdb
+C:\Users\kmanu\source\repos\AppFactorySystem\interns\obj\Debug\net6.0\ref\interns.dll

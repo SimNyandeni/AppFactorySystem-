@@ -1,0 +1,15 @@
+C:\Users\kmanu\source\repos\AppFactorySystem\Accessor\bin\Debug\net6.0\Accessor.deps.json
+C:\Users\kmanu\source\repos\AppFactorySystem\Accessor\bin\Debug\net6.0\Accessor.dll
+C:\Users\kmanu\source\repos\AppFactorySystem\Accessor\bin\Debug\net6.0\Accessor.pdb
+C:\Users\kmanu\source\repos\AppFactorySystem\Accessor\obj\Debug\net6.0\Accessor.csproj.AssemblyReference.cache
+C:\Users\kmanu\source\repos\AppFactorySystem\Accessor\obj\Debug\net6.0\Accessor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kmanu\source\repos\AppFactorySystem\Accessor\obj\Debug\net6.0\Accessor.AssemblyInfoInputs.cache
+C:\Users\kmanu\source\repos\AppFactorySystem\Accessor\obj\Debug\net6.0\Accessor.AssemblyInfo.cs
+C:\Users\kmanu\source\repos\AppFactorySystem\Accessor\obj\Debug\net6.0\Accessor.csproj.CoreCompileInputs.cache
+C:\Users\kmanu\source\repos\AppFactorySystem\Accessor\obj\Debug\net6.0\Accessor.dll
+C:\Users\kmanu\source\repos\AppFactorySystem\Accessor\obj\Debug\net6.0\refint\Accessor.dll
+C:\Users\kmanu\source\repos\AppFactorySystem\Accessor\obj\Debug\net6.0\Accessor.pdb
+C:\Users\kmanu\source\repos\AppFactorySystem\Accessor\obj\Debug\net6.0\ref\Accessor.dll
+C:\Users\kmanu\source\repos\AppFactorySystem\Accessor\bin\Debug\net6.0\interns.dll
+C:\Users\kmanu\source\repos\AppFactorySystem\Accessor\bin\Debug\net6.0\interns.pdb
+C:\Users\kmanu\source\repos\AppFactorySystem\Accessor\obj\Debug\net6.0\Accessor.csproj.CopyComplete

@@ -1,0 +1,5 @@
+C:\Users\kmanu\source\repos\AppFactorySystem\obj\Debug\net6.0\Access.csproj.AssemblyReference.cache
+C:\Users\kmanu\source\repos\AppFactorySystem\obj\Debug\net6.0\Access.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kmanu\source\repos\AppFactorySystem\obj\Debug\net6.0\Access.AssemblyInfoInputs.cache
+C:\Users\kmanu\source\repos\AppFactorySystem\obj\Debug\net6.0\Access.AssemblyInfo.cs
+C:\Users\kmanu\source\repos\AppFactorySystem\obj\Debug\net6.0\Access.csproj.CoreCompileInputs.cache
