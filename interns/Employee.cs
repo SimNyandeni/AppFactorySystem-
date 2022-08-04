@@ -6,15 +6,16 @@ using System.Data;
 
 namespace interns
 {
-    public class interner
+    internal class Employee
     {
-        public static void Insert(string name, string surname,/*int parkingNumber,*/ string fullname, string idNo, DateTime Bday, DateTime startday, DateTime endday)
+        // employee name, surname, fullname,parking, position,idno celebrated birthdate,startdate, end
+        public static void Insert(string name, string surname, string fullname, string idNo, DateTime Bday, string position, int parkingNumber, DateTime startday, DateTime endday)
         {
             string connString = "Server=LAPTOP-9U27768K; Database = AFCentral;Trusted_Connection=true;";
             SqlConnection conn = new SqlConnection(connString);
-            
 
-           using(SqlCommand cmd = new SqlCommand("MemberInsert", conn))
+
+            using (SqlCommand cmd = new SqlCommand("MemberInsert", conn))
             {
                 try
                 {
@@ -24,6 +25,8 @@ namespace interns
                     cmd.Parameters.AddWithValue("@fullname", fullname);
                     cmd.Parameters.AddWithValue("@IdNumber", idNo);
                     cmd.Parameters.AddWithValue("@birthday", Bday);
+                    cmd.Parameters.AddWithValue("@pos", position);
+                    cmd.Parameters.AddWithValue("@parkNo", parkingNumber);
                     cmd.Parameters.AddWithValue("@startdate", startday);
                     cmd.Parameters.AddWithValue("@endate", endday);
                     conn.Open();
@@ -31,25 +34,11 @@ namespace interns
                     conn.Close();
                     Console.WriteLine("successfully inserted");
                 }
-                catch(SqlException ex)
+                catch (SqlException ex)
                 {
-                    Console.WriteLine(ex.Message);  
+                    Console.WriteLine(ex.Message);
                 }
-
-
             }
-
-
-
-
-
-
-
-
-            
-
-            conn.Close();
-            conn.Dispose();
         }
     }
 }
